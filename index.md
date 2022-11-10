@@ -1,88 +1,66 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andriy Skachko's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andriy Skachko
+JavaScript Developer, Dreamer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andriy_skachko@yahoo.com">andriy_skachko@yahoo.com</a>
+| <a href="https://github.com/andriyskachko">Andriy Skackho's Github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Trainee Salesforce Developer At @TechMagic.
 
-### Specialized in
+## Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`Sep 2022 - now`
+__Trainee Salesforce Developer, Techmagic.__
+
+- Created Components using Lightning Web Components Framework in JavaScript.
+- Created Controllers, Triggers, and Tests in Apex.
+
+`Jun 2022 - Aug 2022`
+__Trainee Full-stack JavaScript Developer, TechMagic.__
+
+- Developed a Front-End with Angular.
+- Configured Material Theme and Typography.
+- Created pages for creating and editing entities of applications.
+- Worked with APIs.
 
 
-### Research interests
+`Jun 2021 - Jun 2022`
+__Data Analyst, Home Alliance.__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+- Analyzed Data from Multiple Departments using Google Sheets, Python, R.
+- Prepared Reports and presented Findings to drive business operations with Google Data Studio, Power BI.
+- Automated workflows in Google Workspace (Google Sheets, Gmail) for various team members with Apps Script.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2018 - Jun 2020`
+__Alfred Nobel University, Dnipro - Bachelors of Economics.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Appliend Statistics in the area of Economics.
 
-- Sizar
+## Skills
 
-`1667 - death`
-__Trinity College, Cambridge__
+- JavaScript, TypeScript (Vanilla, Angular, LWC).
+- HTML, CSS (SCSS).
+- NodeJS (Express, Mongoose).
+- Git (GitHub, GitLab).
+- SQL (MySQL, PostgreSQL), NoSQL (MongoDB).
+- Apex.
+- R.
+- Python.
 
-- Fellow
+## Languages
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- English (C1)
+- Ukrainian (Native)
 
 <!-- ### Footer
 
