@@ -20,11 +20,12 @@ Trainee Salesforce Developer At @TechMagic.
 `Sep 2022 - now`
 __Trainee Salesforce Developer, Techmagic.__
 
-- Created Components using Lightning Web Components Framework in JavaScript.
-- Created Controllers, Triggers, and Tests in Apex.
+- * Created Components using Lightning Web Components Framework in JavaScript.
+- * Created Controllers, Triggers, and Tests in Apex.
 
 `Jun 2022 - Aug 2022`
 __Trainee Full-stack JavaScript Developer, TechMagic.__
+
 
 - * Developed a Front-End with Angular.
 - * Configured Material Theme and Typography.
@@ -35,6 +36,7 @@ __Trainee Full-stack JavaScript Developer, TechMagic.__
 `Jun 2021 - Jun 2022`
 __Data Analyst, Home Alliance.__
 
+
 - * Analyzed Data from Multiple Departments using Google Sheets, Python, R.
 - * Prepared Reports and presented Findings to drive business operations with Google Data Studio, Power BI.
 - * Automated workflows in Google Workspace (Google Sheets, Gmail) for various team members with Apps Script.
@@ -43,6 +45,7 @@ __Data Analyst, Home Alliance.__
 
 `Aug 2018 - Jun 2020`
 __Alfred Nobel University, Dnipro - Bachelors of Economics.__
+
 
 - * Appliend Statistics in the area of Economics.
 
