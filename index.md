@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Andriy Skachko's CV
+title: Andriy_Skachko_JavaScript_Developer
 ---
 # Andriy Skachko
 JavaScript Developer.
